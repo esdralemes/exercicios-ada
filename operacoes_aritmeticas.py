@@ -18,6 +18,7 @@ def avaliacao(lista):
 
     return result
 
+
 # Lista de alunos com seus dados
 alunos = [
     {"nome": "João", "nota": 7, "faltas": 5},
